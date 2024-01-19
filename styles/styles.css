@@ -1,7 +1,13 @@
 body {
+
     background-color: pink;
 }
 
 h1 {
-    color: maroon;
+    color: green;
+}
+
+p {
+    color: brown;
+
 }
